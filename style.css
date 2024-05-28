@@ -1,0 +1,66 @@
+#Sign1{
+    width: 115px;
+    height: 36px;
+    top: 27px;
+    left: 35px;
+    border-radius: 10; 
+    outline: none;
+    background-color:  rgba(255, 212, 58, 1);
+    margin-top: 10px;
+    
+}
+#Sign1:hover{
+    background-color: rgba(140, 255, 152, 1);
+    
+}
+#Sign2{
+    width: 285px;
+    height: 36px;
+    top: 77px;
+    left: 35px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 1);
+   color: rgba(255, 255, 255, 1);
+  margin-top: 10px;
+}
+#Sign2:hover{
+    background-color: rgba(211, 211, 211, 1);
+}
+#Sign3{
+    width: 336px;
+    height: 36px;
+    top: 127px;
+    left: 35px;
+    border-radius: 10px;
+    background-color: rgba(180, 58, 255, 1);
+    margin-top: 10px;
+}
+#Sign3:hover{
+    background-color: rgba(255, 58, 224, 1);
+}
+#Sign4{
+    width: 441px;
+    height: 36px;
+    top: 178px;
+    left: 640px;
+    border-radius: 10px;
+    background-color: rgba(233, 233, 233, 1);
+    margin-top: 10px;
+}
+#Sign4:hover{
+background-color: rgba(171, 171, 171, 1);
+}
+#Sign5{
+    width: 559px;
+    height: 36px;
+    top: 229px;
+    left: 35px;
+    border-radius: 10px;
+    background-color: rgba(255, 212, 58, 1);
+    margin-top: 10px;
+    }
+    #Sign5:hover{
+        background-color: rgba(255, 212, 58, 1);
+
+    }
+
